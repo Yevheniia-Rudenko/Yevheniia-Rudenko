@@ -63,8 +63,10 @@
 - 🌍 **Multilingual**: I speak **four languages**—**Ukrainian**, **Russian**, **English**,
   and **German**—which helps me connect with people from diverse
   backgrounds and navigate international projects.
-- 📚 **Jane Austen Fan**: I'm inspired by **Elizabeth Bennet** for her wit,
-  charm, and fearless independence.
+- 📚 **Favorite quote and a reminder**:
+  > Your work makes sense to you because you did it—this
+  > is called the curse of knowledge. Basically, it means that because
+  > you know something, it can be hard to imagine your audience not knowing it.
 
 ---
 

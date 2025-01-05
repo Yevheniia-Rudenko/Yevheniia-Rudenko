@@ -47,7 +47,7 @@
 - Expanding my knowledge of **Python** and exploring the vast world of **Data Science**
   through practical projects and self-study.
 - Actively searching for opportunities to apply my skills and start a career
-- in **data analytics** and **technology**.
+  in **data analytics** and **technology**.
 - Continuing my journey with the **MIT Emerging Talent Foundations Track**,
   deepening my understanding of computer science and data science
   fundamentals to build a strong professional foundation.

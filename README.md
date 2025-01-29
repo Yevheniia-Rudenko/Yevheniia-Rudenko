@@ -1,7 +1,7 @@
 # 👩‍💻 Yevheniia Rudenko
 
 > Hi there! I'm Yevheniia Rudenko, a
-> **MIT Emerging Talent Foundations Track student**
+> **2025 MIT Emerging Talent Certificate in Computer and Data Science student**
 > and a **Computer Science graduate**
 > with a passion for **IT**, **data analysis**, and **technology-driven problem solving**.
 > By day, I explore the world of technology and innovation, and on holidays,
@@ -27,6 +27,8 @@
 
 ### 🎓 **Education**
 
+- **2025 MIT Emerging Talent Certificate in Computer and Data Science**,
+  Massachusetts Institute of Technology, Remote (2024-2025)
 - **Master of Computer Science**, Sumy State University, Ukraine (2021–2022)
 - **Bachelor of Computer Science**, Sumy State University, Ukraine (2017–2021)
 - **Web Science** (Erasmus+ Semester), University of Koblenz and Landau,

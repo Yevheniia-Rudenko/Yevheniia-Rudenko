@@ -11,14 +11,14 @@
 
 ## 🚀 About Me
 
-- 🌍 Originally from Ukraine 🇺🇦, now based in Germany 🇩🇪.
-- 📚 A motivated, fast-learning, and curious individual,
+- Originally from Ukraine 🇺🇦, now based in Germany 🇩🇪.
+- A motivated, fast-learning, and curious individual,
   excited to build a career in IT and data science.
-- ✈️ Future great traveler. I've already visited
+- Future great traveler. I've already visited
   19 countries and look forward to exploring many more!
-- 🎓 Earned a Master's degree in Computer Science
+- Earned a Master's degree in Computer Science
   with honors, alongside hands-on experience in academic and HR environments.
-- 💻 Passionate about exploring new technologies,
+- Passionate about exploring new technologies,
   data-driven decision-making, and combining technical expertise with creative solutions.
 
 ---

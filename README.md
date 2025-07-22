@@ -36,6 +36,8 @@
 
 ### 📜 **Certifications**
 
+- **Machine Learning & AI** - ReDI School
+- **Computational Thinking using Python** - MITx
 - **Google Data Analytics Specialization** - Coursera
 - **SAFe for Teams (5.0)** - Scaled Agile
 - **CCNA Routing and Switching (Introduction to Networks & Essentials)** - Cisco
